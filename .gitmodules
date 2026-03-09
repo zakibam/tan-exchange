@@ -1,0 +1,6 @@
+[submodule "contracts/synthetix"]
+	path = contracts/synthetix
+	url = https://github.com/Synthetixio/synthetix.git
+[submodule "contracts/liquidity"]
+	path = contracts/liquidity
+	url = https://github.com/gmx-io/gmx-contracts.git
